@@ -1,0 +1,59 @@
+html, body{
+    width:100%;
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    padding-top: 10%;
+}
+
+.logo{
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+section{
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.icon{
+    width: 19.6%;   
+}
+
+a{
+    display: block;
+    margin: 0 auto;
+    background: #C3E775;
+    padding: 15px;
+    width: 150px;
+    text-align: center;
+    letter-spacing: 3px;
+    color: #8BC34A;
+    border-color: #8BC34A;
+    border: 5px #8BC34A solid;
+    border-radius: 50px;
+    text-decoration: none;
+    font-family: sans-serif;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    background-color: white ;
+    transition: 0.5s;
+    
+}
+
+a:hover {
+    background:#C3E775; 
+}
+
+p {
+    text-align: center;
+    font-family: sans-serif;
+    padding-bottom: 10px;
+    
+    
+    
+}
